@@ -1,0 +1,15 @@
+﻿F:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (PythonSampleProj.vcxproj, SimpleMathProj.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+F:\SNHU\CS-210\PythonSampleProj\main.cpp(299,6): warning C4101: 'userValue': unreferenced local variable
+F:\SNHU\CS-210\PythonSampleProj\main.cpp(241,21): warning C4018: '<': signed/unsigned mismatch
+F:\SNHU\CS-210\PythonSampleProj\main.cpp(320): message : see reference to function template instantiation 'void getVerifiedInput<std::string>(T &,std::string)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  Generating code
+  3 of 150 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PythonSampleProj.vcxproj -> F:\SNHU\CS-210\PythonSampleProj\Release\PurchaseDataAnalyzerProj.exe
